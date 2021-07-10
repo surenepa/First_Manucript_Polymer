@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Experimental investigations}{}% 2
+\BOOKMARK [1][-]{section.3}{Model equations}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Non-dimensionlization}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Fixed-domain transformation}{section.3}% 5
+\BOOKMARK [1][-]{section.4}{Numerical method}{}% 6
+\BOOKMARK [1][-]{section.5}{Model calibration. Simulation results for the dense rubber}{}% 7
+\BOOKMARK [2][-]{subsection.5.1}{Approximated swelling - capturing the effect of \(s\(t\)\)}{section.5}% 8
+\BOOKMARK [2][-]{subsection.5.2}{Effect of the kinetic parameter a0}{section.5}% 9
+\BOOKMARK [1][-]{section.6}{Simulation results for the foam rubber case}{}% 10
+\BOOKMARK [1][-]{section.7}{Expected large-time behavior of penetration fronts}{}% 11
+\BOOKMARK [1][-]{section.8}{Conclusion and outlook}{}% 12

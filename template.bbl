@@ -1,0 +1,171 @@
+\begin{thebibliography}{10}
+
+\bibitem{aiki2020macromicro}
+T.~Aiki, N.~H. Kröger, and A.~Muntean.
+\newblock A macro-micro elasticity-diffusion system modeling absorption-induced
+  swelling in rubber foams -- proof of the strong solvability.
+\newblock {\em arXiv, 2010.03153}, 2020.
+
+\bibitem{aiki2011free}
+T.~Aiki and A.~Muntean.
+\newblock A free-boundary problem for concrete carbonation: Front nucleation
+  and rigorous justification of the $\sqrt{t}$-law of propagation.
+\newblock {\em Interfaces and Free Boundaries}, 15:167--180, 2013.
+
+\bibitem{aiki2013large}
+T.~Aiki and A.~Muntean.
+\newblock Large-time asymptotics of moving-reaction interfaces involving
+  nonlinear henry’s law and time-dependent dirichlet data.
+\newblock {\em Nonlinear Analysis, Theory, Methods \& Applications}, 93:3--14,
+  2013.
+
+\bibitem{alexiades1992mathematical}
+V.~Alexiades.
+\newblock {\em Mathematical Modeling of Melting and Freezing Processes}.
+\newblock CRC Press, 1992.
+
+\bibitem{bohm1998moving}
+M.~B{\"o}hm, J.~Devinny, F.~Jahani, and G.~Rosen.
+\newblock On a moving-boundary system modeling corrosion in sewer pipes.
+\newblock {\em Applied Mathematics and Computation}, 92(2-3):247--269, 1998.
+
+\bibitem{Fasano}
+A.~Fasano, G.~M. Meyer, and M.~Primicerio.
+\newblock On a problem in the polymer industry: theoretical and numerical
+  investigation of swelling.
+\newblock {\em SIAM Journal on Mathematical Analysis}, 17:945--960, 1986.
+
+\bibitem{gawel2006molecular}
+I.~Gawel, R.~Stepkowski, and F.~Czechowski.
+\newblock Molecular interactions between rubber and asphalt.
+\newblock {\em Industrial \& Engineering Chemistry Research}, 45(9):3044--3049,
+  2006.
+
+\bibitem{Giese2000}
+U.~Giese, R.~Hebisch, K.-H. Pannwitz, and M.~Tschickard.
+\newblock {Theoretische Grundlagen der Passivprobenahme}.
+\newblock In A.~Hartwig, editor, {\em Luftanalysen, {Analytische Methoden zur
+  Prüfung gesundheitsschädlicher Arbeitsstoffe}}, pages 81--103. 15.
+  Lieferung (DFG-Publikationen), Band 1, 2000.
+
+\bibitem{Giese1998}
+U.~Giese, V.~Peterseim, and R.~H. Schuster.
+\newblock {Charakterisierung der Verteilung von Mineralölweichmacheranteilen
+  in Kautschukverschnitten}.
+\newblock {\em GAK: Gummi, Fasern, Kunststoffe; Fachmagazin für die
+  Polymerindustrie}, 51:729--733, 1998.
+
+\bibitem{gupta2017classical}
+S.~C. Gupta.
+\newblock {\em The Classical Stefan Problem: Basic Concepts, Modelling and
+  Analysis with Quasi-analytical Solutions and Methods}, volume~45.
+\newblock Elsevier, 2017.
+
+\bibitem{johansson2018numerical}
+R.~Johansson.
+\newblock {\em Numerical Python: Scientific Computing and Data Science
+  Applications with Numpy, SciPy and Matplotlib}.
+\newblock Apress, 2018.
+
+\bibitem{NHM}
+K.~Kumazaki and A.~Muntean.
+\newblock Local weak solvability of a moving boundary problem describing
+  swelling along a halfline.
+\newblock {\em Networks \& Heterogeneous Media}, 14:445--469, 2019.
+
+\bibitem{kumazaki2020global}
+K.~Kumazaki and A.~Muntean.
+\newblock Global weak solvability, continuous dependence on data, and large
+  time growth of swelling moving interfaces.
+\newblock {\em Interfaces and Free Boundaries}, 22(1):27--50, 2020.
+
+\bibitem{Hewitt}
+M.~Kvick, Martinez M.D., D.R. Hewitt, and N.J. Balmforth.
+\newblock Imbibition with swelling: Capillary rise in thin deformable porous
+  media.
+\newblock {\em Physical Review Fluids}, 2:074001, 2017.
+
+\bibitem{landau1950heat}
+H.~G. Landau.
+\newblock Heat conduction in a melting solid.
+\newblock {\em Quarterly of Applied Mathematics}, 8(1):81--94, 1950.
+
+\bibitem{masoodi2012numerical}
+R.~Masoodi, H.~Tan, and K.~M. Pillai.
+\newblock Numerical simulation of liquid absorption in paper-like swelling
+  porous media.
+\newblock {\em AIChE Journal}, 58(8):2536--2544, 2012.
+
+\bibitem{mircioiu2019mathematical}
+C.~Mircioiu, V.~Voicu, V.~Anuta, A.~Tudose, C.~Celia, D.~Paolino, M.~Fresta,
+  R.~Sandulovici, and I.~Mircioiu.
+\newblock Mathematical modeling of release kinetics from supramolecular drug
+  delivery systems.
+\newblock {\em Pharmaceutics}, 11(3):140, 2019.
+
+\bibitem{morton2013rubber}
+M.~Morton.
+\newblock {\em Rubber Technology}.
+\newblock Springer Science \& Business Media, 2013.
+
+\bibitem{neff2019modelling}
+F.~Neff, A.~Lion, and M.~Johlitz.
+\newblock Modelling diffusion induced swelling behaviour of natural rubber in
+  an organic liquid.
+\newblock {\em Journal of Applied Mathematics and Mechanics}, 99(3):e201700280,
+  2019.
+
+\bibitem{reynier2002migration}
+A.~Reynier, P.~Dole, and A.~Feigenbaum.
+\newblock Migration of additives from polymers into food simulants: numerical
+  solution of a mathematical model taking into account food and polymer
+  interactions.
+\newblock {\em Food Additives \& Contaminants}, 19(1):89--102, 2002.
+
+\bibitem{rezk2018determination}
+M.~G. Rezk and J.~Foroozesh.
+\newblock Determination of mass transfer parameters and swelling factor of
+  co2-oil systems at high pressures.
+\newblock {\em International Journal of Heat and Mass Transfer}, 126:380--390,
+  2018.
+
+\bibitem{Rosca2004}
+C.~Rosca, U.~Giese, R.~H. Schuster, and T.~Fr\"uh.
+\newblock Diffusion of dithiophosphate accelerators in tire compounds.
+\newblock {\em Kautschuk Gummi Kunststoffe}, 57:593--598, 2004.
+
+\bibitem{Rosca2006}
+C.~Rosca, U.~Giese, R.~H. Schuster, and T.~Fr\"uh.
+\newblock Investigation of diffusion of phthalates in nitrile rubber by means
+  of {FT-IR-S}pectroscopy.
+\newblock {\em Kautschuk Gummi Kunststoffe}, 59:86--92, 2006.
+
+\bibitem{sombatsompop2000effects}
+N.~Sombatsompop and P.~Lertkamolsin.
+\newblock Effects of chemical blowing agents on swelling properties of expanded
+  elastomers.
+\newblock {\em Journal of Elastomers \& Plastics}, 32(4):311--328, 2000.
+
+\bibitem{Hans}
+T.~Sweijen, C.J. {van Duijn}, and S.~M. Hassanizadeh.
+\newblock A model for diffusion of water into a swelling particle with a free
+  boundary: Application to a super absorbent polymer particle.
+\newblock {\em Chemical Engineering Science}, 172:407--413, 2017.
+
+\bibitem{thomee1984galerkin}
+V.~Thom{\'e}e.
+\newblock {\em Galerkin Finite Element Methods for Parabolic Problems}, volume
+  1054.
+\newblock Springer, 1984.
+
+\bibitem{van1992diffusional}
+G.~B. van~den Berg and C.~A. Smolders.
+\newblock Diffusional phenomena in membrane separation processes.
+\newblock {\em Journal of Membrane Science}, 73(2-3):103--118, 1992.
+
+\bibitem{Wilmers}
+J.~Wilmers and S.~Bargmann.
+\newblock Simulation of non-classical diffusion in polymers.
+\newblock {\em Heat Mass Transfer}, 50:1543--1552, 2014.
+
+\end{thebibliography}
